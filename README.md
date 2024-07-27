@@ -1,6 +1,7 @@
 # Projeto 2 Hipoteses - Laboratoria
 ## Ferramentas utilizadas
 - [Documentação Notion](https://outstanding-tuck-ee2.notion.site/Modelo-de-Ficha-T-cnica-Projeto-Laboratoria-2-Hipoteses-6a2da2783e71482b84050466b26b3e16?pvs=4)
+- [Apresentação](https://docs.google.com/presentation/d/15_l5C4St0mhHg1Inhx8SOuL9slTaf6qCelkQJpDxhCM/edit?usp=sharing)
 - PowerBi
 - Bigquery
 - SQL
